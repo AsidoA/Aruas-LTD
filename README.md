@@ -6,5 +6,5 @@
   <p>This project was written for a company in the internet infrastructure field that needed a landing page capable of conveying relevant information about the company to new clients.</p>
   <p>The website is intended to serve as a business card to assist the company in consolidating new customers and establishing contact with them in order to recruit them</p>
   <h2></h2>
-  Visit 'Aruas AL LTD':https://aruasltd.onrender.com/
+  Visit 'Aruas AL LTD' : https://aruasltd.onrender.com/
 </div>
